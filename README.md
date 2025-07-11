@@ -12,7 +12,7 @@ Yazılım geliştirme tutkusu olan bir öğrenciyim; özellikle **oyun geliştir
 
 ## 🚀 Şu anda
 
-- Unity ile 2D/3D oyun geliştirmeyi öğreniyorum 🎮
+- Unity ile 3D oyun geliştirmeyi öğreniyorum 🎮
 - Yapay zeka destekli web ve mobil uygulamalar üzerinde çalışıyorum 🤖
 - Staj projeleri ile sektörel tecrübe kazanıyorum 👩‍💻
 
