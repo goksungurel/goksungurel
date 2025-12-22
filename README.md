@@ -8,13 +8,6 @@ Yazılım geliştirme tutkusu olan bir öğrenciyim; özellikle **oyun geliştir
 📚 Yeni teknolojiler öğrenmeyi ve öğrendiklerimi projelere dökmeyi çok seviyorum.  
 🎯 Hedefim: Game Development ve AI alanında güçlü bir kariyer inşa etmek.
 
----
-
-## 🚀 Şu anda
-
-- Unity ile 3D oyun geliştirmeyi öğreniyorum 🎮
-- Yapay zeka destekli web ve mobil uygulamalar üzerinde çalışıyorum 🤖
-- Staj projeleri ile sektörel tecrübe kazanıyorum 👩‍💻
 
 ---
 
