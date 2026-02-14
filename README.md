@@ -3,24 +3,30 @@
 🎮 **Software Engineering Student**
 
 Ben Göksun Gürel, İzmir Ekonomi Üniversitesi Yazılım Mühendisliği 3. sınıf öğrencisiyim.  
-Yazılım geliştirme tutkusu olan bir öğrenciyim;  **yapay zeka (AI)** alanında kendimi geliştiriyorum.  
+Yazılım geliştirme tutkusu olan bir öğrenciyim; özellikle **LLM uygulamaları ve AI agent sistemleri** alanında kendimi geliştiriyorum.
 
 📚 Yeni teknolojiler öğrenmeyi ve öğrendiklerimi projelere dökmeyi çok seviyorum.  
-🎯 Hedefim:  AI alanında güçlü bir kariyer inşa etmek.
-
+🎯 Hedefim: üretken yapay zeka ve agent tabanlı sistemler üzerine uzmanlaşmak.
 
 ---
 
 ## 🛠️ İlgi Alanlarım ve Teknolojiler
 
 ✨ **İlgi Alanlarım:**
-- AI & Machine Learning
+- LLM Applications
+- AI Agents & Multi-Agent Systems
+- Generative AI
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
+
 
 💻 **Kullandığım Teknolojiler:**
 - C#, Java, Python
 - HTML/CSS, JavaScript
 - Node.js
 - OpenAI API
+- Prompt Engineering
+- CrewAI (AI Agents)
 
 ---
 
@@ -28,7 +34,6 @@ Yazılım geliştirme tutkusu olan bir öğrenciyim;  **yapay zeka (AI)** alanı
 
 ✉️ **E-posta:** goksungurell@gmail.com  
 🔗 [LinkedIn Profilim](https://www.linkedin.com/in/goksungurel/)  
-
 
 ---
 
