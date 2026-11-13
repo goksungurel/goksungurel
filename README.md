@@ -18,14 +18,14 @@
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** Python, Java, C#, JavaScript/TypeScript
-- **AI & Agent Frameworks:** LangGraph, CrewAI, Llama 3, OpenAI Whisper,Guardrails AI
+- **AI & Agent Frameworks:**  CrewAI, Llama 3, OpenAI Whisper,Guardrails AI
 - **Databases & Vector Stores:** ChromaDB, SQLite, MySQL
 - **Backend & Web:** FastAPI, Spring Boot, Node.js, React, Next.js
 - **Version Control & DevOps:** Git, Docker
 ---
 
 ### ⚡ What I Work On
-- **Multi-Agent Systems & Orchestration:** Designing autonomous workflows using LangGraph and CrewAI.
+- **Multi-Agent Systems & Orchestration:** Designing autonomous workflows using CrewAI.
 - **RAG & Knowledge Retrieval:** Building context-aware architectures with advanced chunking strategies and vector databases.
 - **Green AI & Sustainable Computing:** Evaluating energy consumption and performance trade-offs in AI agent skills and LLM applications.
 
